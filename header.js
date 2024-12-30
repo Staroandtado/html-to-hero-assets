@@ -1,3 +1,5 @@
+let lang_code = "en";
+
 function getCookie(name) {
     // Construct the cookie name as a search pattern
     const cookiePattern = `${name}=`;
