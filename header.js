@@ -1,4 +1,5 @@
 let lang_code = "en";
+console.log("header.js loaded!");
 
 function getCookie(name) {
     // Construct the cookie name as a search pattern
